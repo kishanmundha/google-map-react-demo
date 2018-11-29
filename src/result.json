@@ -1,0 +1,82 @@
+{
+  "restaurants": [
+    {
+      "name": "Rajwadu",
+      "backgroundImageURL": "https://lh5.googleusercontent.com/p/AF1QipPLOazUBC_lD56MNnz2TuK-2id0xSb0paaUFkob=w408-h200-k-no-pi-2.9338646-ya349.5-ro-0-fo100",
+      "contact": {
+        "phone": "7926643839",
+        "formattedPhone": "079 2664 3839"
+      },
+      "location": {
+        "lat": 23.004106,
+        "lng": 72.539661,
+        "formattedAddress": "Nr. Jivraj Tolnaka, Behind Ambaji Temple, Malav Talav, Lavanya Society, Vasna, Ahmedabad, Gujarat 380007"
+      }
+    },
+    {
+      "name": "Jassi De Parathe",
+      "backgroundImageURL": "https://lh5.googleusercontent.com/p/AF1QipMJjC0R8_RvlYlpWOJu32N9NH8nTiEEyVmAo-xo=w408-h272-k-no",
+      "contact": {
+        "phone": "9925002706",
+        "formattedPhone": "099250 02706"
+      },
+      "location": {
+        "lat": 23.012426,
+        "lng": 72.511027,
+        "formattedAddress": "107, Safal Pegasus, Anand Nagar Road, Above McDonald's, Prahlad Nagar, Chinar Bungalows, Prahlad Nagar, Ahmedabad, Gujarat 380015"
+      }
+    },
+    {
+      "name": "TheGrillStreet",
+      "backgroundImageURL": "https://lh5.googleusercontent.com/p/AF1QipOtcvPxF8eFc3mcuCgbqaRFIj2gJxQn6ucO-Zf9=w408-h272-k-no",
+      "contact": {
+        "phone": "7948936440",
+        "formattedPhone": "079 4893 6440"
+      },
+      "location": {
+        "lat": 23.026607,
+        "lng": 72.507874,
+        "formattedAddress": "106, First Floor, Dev Arc Complex, Nr. Iscon Cross Road, Sarkhej - Gandhinagar Hwy, Ramdev Nagar, Ahmedabad, Gujarat 380015"
+      }
+    },
+    {
+      "name": "@Mango",
+      "backgroundImageURL": "https://lh5.googleusercontent.com/p/AF1QipMy7gO24YnILEHocgYDAlGL9ztIMMXvizfrkbM6=w408-h206-k-no",
+      "contact": {
+        "phone": "9925238230",
+        "formattedPhone": "099252 38230"
+      },
+      "location": {
+        "lat": 23.040039,
+        "lng": 72.501974,
+        "formattedAddress": "Sindhu Bhavan Road, PRL Colony, Bodakdev, Ahmedabad, Gujarat 380054"
+      }
+    },
+    {
+      "name": "Saffron",
+      "backgroundImageURL": "https://lh6.googleusercontent.com/proxy/2GqDTubOBcMEJ6YkOctghcwIAFGROMLVogXtGbRrL5AQdEEeuqCADpXCsSFe_EOHekvYMFIJEdUEZWhGosUbkhdDRDtlyjX1khcA1s4NqWkA7eZsXUDZ8lCU2icn-v_ARuxWJ2-CyLDsITN5rF-8PHi6GaRHNg=w408-h233-k-no",
+      "contact": {
+        "phone": "7927462999",
+        "formattedPhone": "079 2746 2999"
+      },
+      "location": {
+        "lat": 23.046218,
+        "lng": 72.536146,
+        "formattedAddress": "1st Floor, Opp Gurukul, Sankalp Square, Drive In Road, Sushil Nagar Society, Memnagar, Mayur Nagar Society, Sushil Nagar Society, Memnagar, Ahmedabad, Gujarat 380052"
+      }
+    },
+    {
+      "name": "Real Paprika",
+      "backgroundImageURL": "https://lh4.googleusercontent.com/proxy/cu9wChzfvcLsW0foYW2ylwu-3my8391x8b1Q0mArgOnUMDDyChkYW-Lb8IXF1GGZ9UeC1hRfGCQOvanGHZJ4OlAqi9zddYalriGUwN71miAkCH76XdTCTUaPQOdp8eqn9D5fhD8e0Fe8FguxBh5HcYuQr5EE9P4=w408-h233-k-no",
+      "contact": {
+        "phone": "7777999572",
+        "formattedPhone": "077779 99572"
+      },
+      "location": {
+        "lat": 23.020815,
+        "lng": 72.543722,
+        "formattedAddress": "G-1, Prasad Complex, Opp. Jain Derasar, Manekbaugh Road, Nehru Nagar, Jodhpur, Patel Colony, Ambawadi, Ahmedabad, Gujarat 380015"
+      }
+    }
+  ]
+}
